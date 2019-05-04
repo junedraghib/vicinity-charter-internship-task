@@ -1,0 +1,27 @@
+.addform{
+    padding: 10px;
+    background-color: rgb(190, 190, 190);
+    text-align: center;
+}
+
+.addform input{
+    display: block;
+    margin: 5px 0px;
+    height: 20px;
+    width: 100%;
+    color: rgb(45, 65, 87);
+    font-weight: bold;
+}
+
+.addform button{
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    border:  none;
+    cursor: pointer;
+    background-color: rgb(45, 65, 87);
+}
+.hidden{
+    display: none;
+}

@@ -1,0 +1,21 @@
+.contactAction {
+    padding: 5px;
+    text-align: center;
+}
+
+.contactAction button {
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    border:  none;
+    cursor: pointer;
+}
+
+.delete-button{
+    background-color: red;
+}
+
+.edit-button{
+      background-color: green;
+}

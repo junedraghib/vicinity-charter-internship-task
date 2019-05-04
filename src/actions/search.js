@@ -1,0 +1,1 @@
+export const searchAction = (payload) => ({ type: 'SEARCH', payload })

@@ -1,0 +1,32 @@
+.edit-form{
+    padding: 10px;
+    background-color: rgb(207, 207, 207); 
+    text-align: center;
+}
+
+.edit-form input{
+    display: block;
+    margin: 5px 0px;
+    height: 20px;
+    width: 100%;
+    color: rgb(45, 65, 87);
+    font-weight: bold;
+}
+
+.edit-form button{
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    border:  none;
+    cursor: pointer;
+}
+
+
+.cancel-button{
+    background-color: red;
+}
+
+.update-button{
+      background-color: blue;
+}
