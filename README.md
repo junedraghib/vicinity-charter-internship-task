@@ -1,4 +1,4 @@
-# Contact App for Vicinity Charter Internship Task <br>
+﻿# Contact App for Vicinity Charter Internship Task <br>
 This is a simple React based app to list contacts integrated with Redux to manage
 app state, app uses localStorage to store the state, app
 implements basic CRUD operations along with search action to search a contact
@@ -7,6 +7,8 @@ A running instance of the app is here : [contact-app: live instance](https://jun
 Source Code for the app is here : [contact-app: source code](https://github.com/junedraghib/contact-app/tree/development)
 All the actions are elaborated in details in the subsequent slides, App is well
 structured and divided into various modules.
+## Functionalities
+(screenshots/vc_functionalities.png)
 
 ## Get Started
 
