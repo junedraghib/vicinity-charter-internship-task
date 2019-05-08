@@ -8,7 +8,15 @@ Source Code for the app is here : [contact-app: source code](https://github.com/
 All the actions are elaborated in details in the subsequent slides, App is well
 structured and divided into various modules.
 ## Functionalities
-(screenshots/vc_functionalities.png)
+![functionalities](https://raw.githubusercontent.com/junedraghib/contact-app/development/screenshots/vc_functionalities.png)
+
+![add action](https://raw.githubusercontent.com/junedraghib/contact-app/development/screenshots/vc_add_action.png)
+
+![delete action](https://raw.githubusercontent.com/junedraghib/contact-app/development/screenshots/vc_delete_action.png)
+
+![update action](https://raw.githubusercontent.com/junedraghib/contact-app/development/screenshots/vc_update_action.png)
+
+![search action](https://raw.githubusercontent.com/junedraghib/contact-app/development/screenshots/vc_search_action.png)
 
 ## Get Started
 
